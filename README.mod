@@ -1,0 +1,2 @@
+MicrochipのMPLABXの出力するHEXファイルのままでは、configワードの上位2bitが1であり、書き込めないのでパッチしました。
+

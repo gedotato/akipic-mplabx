@@ -1,0 +1,9 @@
+#define COLUMN 0x10
+#define TYPE_12C5X  1
+#define TYPE_12C67X 2
+#define TYPE_16C5XO 3
+#define TYPE_16C5XE 4
+#define TYPE_16CX   5
+#define TYPE_16FX   6
+#define TYPE_16F87X4K   7
+#define TYPE_16F87X8K   8
